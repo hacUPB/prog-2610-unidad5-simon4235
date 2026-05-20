@@ -14,7 +14,7 @@ Este documento README contiene, tanto los diagrams de flujo, como la respuesta a
 ![Diagrama procesar bitácoras](../../Imagenes/diagrama_procesar_bitacoras.jpeg)  
   
 - Diagrama de flujo función analizar dataset:
-![Diagrama analizar dataset](../../Imagenes/)  
+![Diagrama analizar dataset](../../Imagenes/diagrama_analizar_dataset.jpeg)  
   
 ## Breve explicación de los datos elegidos(¿De dónde salieron? ¿Qué representan?):    
 En cuanto a los archivos de texto, optamos por incluir libros famosos, los cuales fueran de acceso publico. Obtuvimos los libros en librerias virtuales abiertas, claramente siendo precavidos de que estas librerias fueran completamente legales.  
